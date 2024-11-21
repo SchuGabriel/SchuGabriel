@@ -1,5 +1,8 @@
 ## Hi there 👋
-AHAM
+<img 
+            height=150
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchuGabriel&layout=compact&hide_border=true&title_color=F0F6FC&text_color=c9d1d9&bg_color=0d1117" />
+            
 <!--
 **SchuGabriel/SchuGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
